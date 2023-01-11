@@ -1,0 +1,14 @@
+1,-2147483648,Sun Jan 12 00:00:00 IST 2031,12:12:12,false,PARTIALLY_BOOKED,sdjfh,demo;sdjfh;kdsjf;34958;pass,false,false
+1,0,Sat Sep 12 00:00:00 IST 22,12:12:12,false,PARTIALLY_BOOKED,sdjfh,demo;sdjfh;kdsjf;34958;pass,false,false
+1,0,Mon Dec 12 00:00:00 IST 2022,12:12:12,false,PARTIALLY_BOOKED,sdjfh,demo;sdjfh;kdsjf;34958;pass,false,false
+1,0,Thu Aug 12 00:00:00 IST 2021,12:12:12,false,PARTIALLY_BOOKED,sdjfh,demo;sdjfh;kdsjf;34958;pass,false,false
+1,0,Tue Jul 12 00:00:00 IST 2022,12:12:12,false,PARTIALLY_BOOKED,sdjfh,demo;sdjfh;kdsjf;34958;pass,false,false
+1,0,Sat Feb 12 00:00:00 IST 2022,12:12:12,false,PARTIALLY_BOOKED,sdjfh,demo;sdjfh;kdsjf;34958;pass,false,false
+1,0,Fri Aug 12 00:00:00 IST 2022,12:12:12,false,PARTIALLY_BOOKED,sdjfh,demo;sdjfh;kdsjf;34958;pass,false,false
+0,0,Sat Feb 12 00:00:00 IST 2022,12:12:12,false,PARTIALLY_BOOKED,sdjfh,demo;sdjfh;kdsjf;34958;pass,false,false
+0,0,Sat Feb 12 00:00:00 IST 2022,12:12:12,false,PARTIALLY_BOOKED,bitsid,demo2;bitsid;email;8907654;pass,false,false
+1,0,Sat Feb 12 00:00:00 IST 2022,12:12:12,false,PARTIALLY_BOOKED,demo,demo3;demo;demoadd;568979;pass,false,false
+0,0,Sat Feb 12 00:00:00 IST 2022,12:12:12,false,EMPTY,sdjfh,demo;sdjfh;kdsjf;34958;pass,false,false
+0,0,Mon Dec 12 00:00:00 IST 2022,12:20,false,EMPTY,dhkg,admin2;dhkg;soif;5397;pass,false,false
+0,0,Sat Feb 12 00:00:00 IST 2022,15:20,false,EMPTY,dhkg,admin2;dhkg;soif;5397;pass,false,false
+1,0,Wed Dec 14 00:00:00 IST 2022,14:30,false,PARTIALLY_BOOKED,dhkg,admin2;dhkg;soif;5397;pass,false,false
